@@ -4,12 +4,13 @@ rafsi:
 examples: No examples.
 definitions:
   en:
-    place structure: x1 is foolish/silly in event/action/property [folly] (ka) x2;
-      x1 is a boob.
+    place structure: x1 is foolish/silly in event/action/property [folly] (ka) x2.
     notes:
-    - See also {fenki}, {xajmi}, {prije}, {fliba}.
+    - See also {fenki}, {xajmi}, {prije}, {fliba}, {juxre}, {racli}.
     glosses:
     - foolish
+    - fool
+    - silly
   de:
     place structure: x1 ist dumm/töricht/dämlich/albern/blöd in Ereignis/Aktion/Eigenschaft
       [Dummheit/Torheit] (ka) x2; x1 ist ein Dummkopf/Idiot/Tor
